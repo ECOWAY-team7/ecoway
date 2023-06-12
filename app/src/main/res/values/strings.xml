@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">eco_way</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="main_recycling_name">
+        <item>Doll</item>
+        <item>Doll</item>
+        <item>Doll</item>
+        <item>Doll</item>
+        <item>Doll</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
